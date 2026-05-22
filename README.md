@@ -4,8 +4,6 @@ The addon can use Auctionator, TradeSkillMaster4, Aux and RECrystallize as price
 
 KiwiFarm also tracks and displays instance resets & lock time, allowing to time your farming around the 5 or 10 instances resets per hour that the game allows.
 
-KiwiFarm can be configured as a Details addon plugin, allowing to track and display the farming stats inside a Details plugin Window.
-
 Slash command: /kfarm or /kiwifarm
 Shift+Left-Click on main window:  Reset instances.
 Right-Click on main window: Open config menu.
