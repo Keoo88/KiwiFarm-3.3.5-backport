@@ -40,7 +40,7 @@ upstream project.
 - 🧩 **Price sources** — pulls item prices from **Auctionator** when installed.
 - 🖱 **Movable, lockable window** with a minimap button (via LibDBIcon).
 - 🌐 **Localized** via AceLocale-3.0.
-- 🪶 Lightweight — no heavy dependencies beyond the bundled libs.
+- 🪺 Lightweight — no heavy dependencies beyond the bundled libs.
 
 ## Installation
 
