@@ -2,7 +2,7 @@ KiwiFarm  is a small window which tracks gold & items looted and determines item
 
 The addon can use Auctionator, as price sources.
 
-KiwiFarm also tracks and displays instance resets & lock time, allowing to time your farming around the 5 or 10 instances resets per hour that the game allows.
+KiwiFarm also tracks and displays instance resets & lock time, allowing to time your farming around the 5 resets per hour.
 
 Slash command: /kfarm or /kiwifarm
 Shift+Left-Click on main window:  Reset instances.
