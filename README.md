@@ -1,7 +1,7 @@
 # KiwiFarm — WotLK 3.3.5 backport
 
 <p align="center">
-  <img src="KiwiFarm.tga" alt="KiwiFarm icon" width="64" height="64"/>
+  <img src="KiwiFarm.png" alt="KiwiFarm icon" width="64" height="64"/>
 </p>
 
 <p align="center">
