@@ -53,14 +53,6 @@ upstream project.
    `KiwiFarm.toc` at its root.
 4. Restart the game (or `/reload`) and enable **KiwiFarm** in the addon list.
 
-### Optional dependencies
-
-| Addon | Purpose |
-| --- | --- |
-| [Auctionator](https://www.curseforge.com/wow/addons/auctionator) | Item price source |
-| LibSharedMedia-3.0 | Extra fonts / textures |
-| LibItemUpgradeInfo-1.0 | Better item info |
-
 ## Usage
 
 ### Slash commands
