@@ -93,7 +93,7 @@ Released under the terms of the [LICENSE](LICENSE) file in this repository.
 
 ## Credits
 
-- Original addon: **Keoo**
+- Original addon: **michaelsp**
 - WotLK 3.3.5 backport: **Keoo**
 - Libraries: LibStub, CallbackHandler-1.0, LibDataBroker-1.1, LibDBIcon-1.0,
   AceLocale-3.0.
